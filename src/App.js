@@ -2,7 +2,6 @@ import React from 'react';
 import './App.css';
 import Game from './components/TicTacToe/index.js';
 import Login from './components/login/index.js';
-import Register from './components/register/index.js';
 
 
 function Register (){
