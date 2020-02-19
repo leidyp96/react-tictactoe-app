@@ -5,6 +5,15 @@ import Login from './components/login/index.js';
 import Register from './components/register/index.js';
 
 
+function Register (){
+  return <div>
+    <span>First Name</span><input></input><br/>
+    <span>Last Name</span><input></input><br/>
+    <span>username</span><input></input><br/>
+    <span>Password</span><input type="password"></input><br/>
+   </div>
+}
+
 
 
 
